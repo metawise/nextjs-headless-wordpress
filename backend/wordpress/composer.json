@@ -7,6 +7,11 @@
 			"url": "https://wpackagist.org"
 		}
 	],
+		"config": {
+		"platform": {
+		"php": "7.4"
+		}
+	},
 	"require": {
 		"composer/installers": "~1.0",
 		"imranhsayed/headless-cms": "^1.0",
